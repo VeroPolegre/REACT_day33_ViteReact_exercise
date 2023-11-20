@@ -6,8 +6,8 @@ React is a JavaScript library that makes it easy to create interactive user inte
 
 ### Objectives
 - Understand how to develop an application with React
-- Improve your web development skills
-- Improve your JavaScript development skills
+- Improve web development skills
+- Improve JavaScript development skills
 
 ### Exercise 
 
