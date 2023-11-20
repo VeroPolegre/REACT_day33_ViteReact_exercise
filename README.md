@@ -1,4 +1,4 @@
-# REACT_day33_ViteReact
+# REACT_day33_ViteReact_exercise
 
 ### Introduction
 
