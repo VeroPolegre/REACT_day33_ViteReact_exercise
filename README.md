@@ -14,3 +14,7 @@ React is a JavaScript library that makes it easy to create interactive user inte
 Create a Person component that accepts name, surname and age props, and shows us said data within span tags.
 Use at least the same component 3 times with props that have different values.
 Create the Person component functionally and with classes.
+
+| React |
+
+Completed by [Vero Polegre](https://github.com/VeroPolegre)
